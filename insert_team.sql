@@ -1,0 +1,12 @@
+insert into Team (0, "Ducks", "Tokyo Dome", 0);
+insert into Team (1, "Bobcats", "Hiroshima Dome", 0);
+insert into Team (2, "Cougars", "Kobe Dome", 0);
+insert into Team (3, "Donkeys", "Saitama Field", 0);
+insert into Team (4, "Elephants", "Shinjuku Field", 0);
+insert into Team (5, "Carps", "Enoshima Park", 0);
+insert into Team (6, "Jaguars", "Tanaka Field", 1);
+insert into Team (7, "Fighters", "Shinitai Dome", 1);
+insert into Team (8, "Giants", "Koroshite Park", 1);
+insert into Team (9, "Hawks", "Dameda Field", 1);
+insert into Team (10, "Marines", "Kore Daikirai Park", 1);
+insert into Team (11, "Baystars", "Owaridana Field", 1);
