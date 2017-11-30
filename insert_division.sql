@@ -1,2 +1,2 @@
-insert into Division (0, "East");
-insert into Division (1, "West");
+insert into Division values (0, "East");
+insert into Division values (1, "West");
